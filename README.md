@@ -1,6 +1,6 @@
 # 21 MERN: Book Search Engine
 
-p align="center">
+<p align="center">>
   <img src="https://img.shields.io/badge/License-MIT-blue" alt="License: MIT">
 </p>
 
